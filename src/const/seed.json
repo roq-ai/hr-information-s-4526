@@ -1,0 +1,2472 @@
+[
+  {
+    "hr_manager": [
+      {
+        "id": "ffddaa4e-6ff5-4c95-8673-f1c2960f739d",
+        "hire_date": "2023-09-28T11:00:03.452Z",
+        "termination_date": "2023-09-27T18:29:08.135Z",
+        "created_at": "2023-09-27T12:56:09.725Z",
+        "updated_at": "2023-09-28T07:49:41.676Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "900dcd53-e897-4dd9-ad9f-1b134e08c7c6",
+        "hire_date": "2023-09-27T20:44:30.376Z",
+        "termination_date": "2023-09-28T03:51:35.682Z",
+        "created_at": "2023-09-28T12:19:06.931Z",
+        "updated_at": "2023-09-28T05:48:44.886Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff6b00b9-dcf6-4e63-b9c7-8b101f179f03",
+        "hire_date": "2023-09-28T01:18:05.059Z",
+        "termination_date": "2023-09-28T00:29:54.539Z",
+        "created_at": "2023-09-28T04:52:43.435Z",
+        "updated_at": "2023-09-27T16:49:35.003Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db2fef24-ebf9-46c8-80d6-afdfd6aa932c",
+        "hire_date": "2023-09-27T20:27:51.232Z",
+        "termination_date": "2023-09-27T23:09:14.044Z",
+        "created_at": "2023-09-28T04:09:59.815Z",
+        "updated_at": "2023-09-27T12:43:34.408Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc3a525d-f838-4572-85e3-f5dda33b11b8",
+        "hire_date": "2023-09-27T22:34:09.747Z",
+        "termination_date": "2023-09-28T01:59:46.394Z",
+        "created_at": "2023-09-28T11:34:54.906Z",
+        "updated_at": "2023-09-28T10:59:38.616Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "a43b736e-301c-42f7-b3c1-5910272324bd",
+        "position": "Software Engineer",
+        "start_date": "2023-09-27T13:57:10.722Z",
+        "end_date": "2023-09-27T16:53:20.006Z",
+        "created_at": "2023-09-28T07:29:22.094Z",
+        "updated_at": "2023-09-28T03:52:25.361Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "079ecbfa-be13-4e63-b805-0778c82c055b",
+        "position": "Marketing Manager",
+        "start_date": "2023-09-28T04:58:43.716Z",
+        "end_date": "2023-09-27T22:06:33.839Z",
+        "created_at": "2023-09-27T18:29:02.995Z",
+        "updated_at": "2023-09-27T18:22:02.480Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d34be8b5-8d7f-4d7b-9307-2cba30449747",
+        "position": "Financial Analyst",
+        "start_date": "2023-09-27T22:05:23.435Z",
+        "end_date": "2023-09-27T14:00:40.483Z",
+        "created_at": "2023-09-27T15:42:51.768Z",
+        "updated_at": "2023-09-28T02:21:25.216Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4254917-c7be-401b-9094-f01145c53f00",
+        "position": "HR Specialist",
+        "start_date": "2023-09-27T17:12:00.498Z",
+        "end_date": "2023-09-28T09:29:11.193Z",
+        "created_at": "2023-09-28T08:38:10.869Z",
+        "updated_at": "2023-09-27T23:26:16.828Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0b3cefa-1520-40d5-887c-338f108ca1e9",
+        "position": "Operations Coordinator",
+        "start_date": "2023-09-27T16:31:46.046Z",
+        "end_date": "2023-09-28T09:57:56.705Z",
+        "created_at": "2023-09-28T05:24:39.174Z",
+        "updated_at": "2023-09-28T04:18:55.833Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "43ea4256-aeae-49d2-8d74-619fb9959080",
+        "start_date": "2023-09-27T22:00:00.526Z",
+        "end_date": "2023-09-28T12:13:24.966Z",
+        "status": "Approved",
+        "created_at": "2023-09-27T19:27:13.365Z",
+        "updated_at": "2023-09-28T03:11:09.965Z",
+        "employee_id": "079ecbfa-be13-4e63-b805-0778c82c055b"
+      },
+      {
+        "id": "8abd2848-7a0a-421f-8a85-db7beb0cabd4",
+        "start_date": "2023-09-28T03:53:37.501Z",
+        "end_date": "2023-09-28T07:02:31.364Z",
+        "status": "Pending",
+        "created_at": "2023-09-28T04:32:10.309Z",
+        "updated_at": "2023-09-28T07:12:44.342Z",
+        "employee_id": "d4254917-c7be-401b-9094-f01145c53f00"
+      },
+      {
+        "id": "99fdf0a7-f93d-4803-8361-c0ec22c17900",
+        "start_date": "2023-09-28T06:11:05.021Z",
+        "end_date": "2023-09-27T16:09:01.072Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T02:25:54.107Z",
+        "updated_at": "2023-09-28T05:57:01.295Z",
+        "employee_id": "a43b736e-301c-42f7-b3c1-5910272324bd"
+      },
+      {
+        "id": "4c2526f3-6150-4554-9c87-089da45a5d58",
+        "start_date": "2023-09-27T20:31:32.440Z",
+        "end_date": "2023-09-27T16:43:29.996Z",
+        "status": "Confirmed",
+        "created_at": "2023-09-28T10:00:18.091Z",
+        "updated_at": "2023-09-28T00:56:26.377Z",
+        "employee_id": "a43b736e-301c-42f7-b3c1-5910272324bd"
+      },
+      {
+        "id": "a23cf585-e789-421f-94c4-677651cd853e",
+        "start_date": "2023-09-28T06:18:06.890Z",
+        "end_date": "2023-09-28T09:08:46.121Z",
+        "status": "Rejected",
+        "created_at": "2023-09-27T23:15:30.081Z",
+        "updated_at": "2023-09-27T21:09:21.740Z",
+        "employee_id": "079ecbfa-be13-4e63-b805-0778c82c055b"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "e354a94f-b7bd-4c42-8a38-fd716b0ca695",
+        "salary": 56840,
+        "bonus": 29715,
+        "deductions": 87313,
+        "pay_date": "2023-09-27T17:56:46.598Z",
+        "created_at": "2023-09-28T00:38:11.959Z",
+        "updated_at": "2023-09-28T03:10:19.598Z",
+        "employee_id": "d34be8b5-8d7f-4d7b-9307-2cba30449747"
+      },
+      {
+        "id": "af0ee78d-ff5b-465c-a53b-76eb69a5f3fe",
+        "salary": 72066,
+        "bonus": 37514,
+        "deductions": 79762,
+        "pay_date": "2023-09-27T22:42:16.928Z",
+        "created_at": "2023-09-28T12:11:00.680Z",
+        "updated_at": "2023-09-27T22:03:19.129Z",
+        "employee_id": "a43b736e-301c-42f7-b3c1-5910272324bd"
+      },
+      {
+        "id": "deaf51a1-6c42-4744-a2f2-518346b6a57d",
+        "salary": 3429,
+        "bonus": 22674,
+        "deductions": 28527,
+        "pay_date": "2023-09-28T06:24:21.128Z",
+        "created_at": "2023-09-28T06:15:53.368Z",
+        "updated_at": "2023-09-27T19:16:31.566Z",
+        "employee_id": "d34be8b5-8d7f-4d7b-9307-2cba30449747"
+      },
+      {
+        "id": "0284d847-0f3d-4423-8baa-9904c6cfed4a",
+        "salary": 20671,
+        "bonus": 40620,
+        "deductions": 63511,
+        "pay_date": "2023-09-27T20:25:20.120Z",
+        "created_at": "2023-09-27T20:38:11.504Z",
+        "updated_at": "2023-09-28T00:06:33.735Z",
+        "employee_id": "a43b736e-301c-42f7-b3c1-5910272324bd"
+      },
+      {
+        "id": "a1fa4aeb-f7f5-40f4-8220-8902238b578e",
+        "salary": 50869,
+        "bonus": 64686,
+        "deductions": 89568,
+        "pay_date": "2023-09-27T18:23:30.378Z",
+        "created_at": "2023-09-27T19:48:49.255Z",
+        "updated_at": "2023-09-28T12:23:47.360Z",
+        "employee_id": "b0b3cefa-1520-40d5-887c-338f108ca1e9"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b8b81f99-05d4-4ddf-be78-989ae97341ee",
+        "email": "Gaetano_Hudson94@roq.tech",
+        "firstName": "Major",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/729497",
+        "tenantId": null
+      },
+      {
+        "reference": "6d7a4607-8dcf-4754-9b05-f7b3e7ae2b32",
+        "email": "Tyshawn.Kohler@roq.tech",
+        "firstName": "Christy",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/507.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7738c0c5-aea2-49b4-878c-2044fad5ba2d",
+        "email": "Shanie63@roq.tech",
+        "firstName": "Malcolm",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41553491",
+        "tenantId": null
+      },
+      {
+        "reference": "b9ac9197-d7ee-43d5-af55-5fc4190559dc",
+        "email": "Haley0@roq.tech",
+        "firstName": "Roselyn",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/939.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ba3245ed-069e-4522-a2ac-9e119eeb7d6d",
+        "email": "Lucy.Kovacek@roq.tech",
+        "firstName": "Nedra",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1116.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "a79566e6-82f0-4102-a68b-8b381314228c",
+        "hire_date": "2023-09-27T15:45:09.071Z",
+        "termination_date": "2023-09-27T15:48:37.348Z",
+        "created_at": "2023-09-27T18:00:10.686Z",
+        "updated_at": "2023-09-28T10:28:32.754Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d519f95-a453-4f08-b5bf-dd0d1cd74550",
+        "hire_date": "2023-09-28T03:28:36.910Z",
+        "termination_date": "2023-09-27T16:28:38.369Z",
+        "created_at": "2023-09-28T05:46:01.977Z",
+        "updated_at": "2023-09-28T10:31:22.062Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00462887-f341-465b-8470-7b655d528707",
+        "hire_date": "2023-09-28T00:38:24.389Z",
+        "termination_date": "2023-09-28T06:55:54.266Z",
+        "created_at": "2023-09-27T18:07:15.833Z",
+        "updated_at": "2023-09-28T04:55:16.364Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83aada19-193d-4267-93d9-2cb35d97c678",
+        "hire_date": "2023-09-28T08:47:42.448Z",
+        "termination_date": "2023-09-27T18:13:50.663Z",
+        "created_at": "2023-09-28T08:08:01.143Z",
+        "updated_at": "2023-09-27T18:16:33.868Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3bd32867-daee-4265-826e-32f733f09481",
+        "hire_date": "2023-09-28T10:32:01.845Z",
+        "termination_date": "2023-09-28T10:27:42.564Z",
+        "created_at": "2023-09-28T08:09:09.644Z",
+        "updated_at": "2023-09-28T03:43:27.561Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "f27e2478-a089-412b-97d7-a352a06248bf",
+        "position": "Software Engineer",
+        "start_date": "2023-09-28T01:36:17.326Z",
+        "end_date": "2023-09-27T16:42:33.153Z",
+        "created_at": "2023-09-27T23:34:37.993Z",
+        "updated_at": "2023-09-27T23:24:41.873Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbe8c93f-57a4-4e90-a182-1581630a642c",
+        "position": "Sales Manager",
+        "start_date": "2023-09-27T23:46:58.240Z",
+        "end_date": "2023-09-27T15:08:54.628Z",
+        "created_at": "2023-09-27T22:55:03.697Z",
+        "updated_at": "2023-09-28T12:26:25.991Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94a19845-c680-495f-8c31-55a4b3c904bd",
+        "position": "Marketing Specialist",
+        "start_date": "2023-09-28T03:43:52.774Z",
+        "end_date": "2023-09-28T11:59:15.657Z",
+        "created_at": "2023-09-28T12:14:30.073Z",
+        "updated_at": "2023-09-27T19:27:20.621Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bf04a568-69f5-4afd-bd99-19ba7a02a828",
+        "position": "HR Coordinator",
+        "start_date": "2023-09-28T01:37:08.118Z",
+        "end_date": "2023-09-27T21:21:31.919Z",
+        "created_at": "2023-09-27T19:03:59.587Z",
+        "updated_at": "2023-09-28T04:55:24.800Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a8ad0cf-3ae9-45c5-8f9f-161b17e284c6",
+        "position": "Operations Analyst",
+        "start_date": "2023-09-28T10:43:37.912Z",
+        "end_date": "2023-09-28T01:25:55.843Z",
+        "created_at": "2023-09-28T01:34:30.718Z",
+        "updated_at": "2023-09-28T03:37:31.692Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "32b65ca7-e65f-4fc6-9abd-a2a9025ad1a2",
+        "start_date": "2023-09-28T05:50:32.145Z",
+        "end_date": "2023-09-27T21:56:24.080Z",
+        "status": "Approved",
+        "created_at": "2023-09-28T06:32:15.022Z",
+        "updated_at": "2023-09-27T14:22:28.294Z",
+        "employee_id": "bf04a568-69f5-4afd-bd99-19ba7a02a828"
+      },
+      {
+        "id": "6f34b89f-8d37-4956-99ec-163fc077e18b",
+        "start_date": "2023-09-28T11:31:25.175Z",
+        "end_date": "2023-09-28T06:46:38.579Z",
+        "status": "Pending",
+        "created_at": "2023-09-27T13:50:56.209Z",
+        "updated_at": "2023-09-28T00:30:17.869Z",
+        "employee_id": "2a8ad0cf-3ae9-45c5-8f9f-161b17e284c6"
+      },
+      {
+        "id": "df4ec693-5ea9-4e2d-9a9f-21e9bf9a891e",
+        "start_date": "2023-09-27T18:43:22.663Z",
+        "end_date": "2023-09-27T22:11:49.256Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-27T15:13:07.852Z",
+        "updated_at": "2023-09-27T23:16:56.556Z",
+        "employee_id": "dbe8c93f-57a4-4e90-a182-1581630a642c"
+      },
+      {
+        "id": "8666d87b-296e-4b6e-907a-76579742bd5f",
+        "start_date": "2023-09-28T06:09:55.941Z",
+        "end_date": "2023-09-27T14:39:52.597Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-27T13:31:03.909Z",
+        "updated_at": "2023-09-27T19:02:00.121Z",
+        "employee_id": "bf04a568-69f5-4afd-bd99-19ba7a02a828"
+      },
+      {
+        "id": "03215970-dc52-4086-a94d-8bbafc2617e4",
+        "start_date": "2023-09-27T14:45:04.187Z",
+        "end_date": "2023-09-27T15:27:49.550Z",
+        "status": "Completed",
+        "created_at": "2023-09-28T10:43:21.973Z",
+        "updated_at": "2023-09-27T20:01:59.127Z",
+        "employee_id": "f27e2478-a089-412b-97d7-a352a06248bf"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "7a0201bb-35b8-4be8-b4c8-4efeda2b4bc3",
+        "salary": 82305,
+        "bonus": 53643,
+        "deductions": 17890,
+        "pay_date": "2023-09-27T15:01:01.230Z",
+        "created_at": "2023-09-27T20:38:20.509Z",
+        "updated_at": "2023-09-27T15:22:25.990Z",
+        "employee_id": "f27e2478-a089-412b-97d7-a352a06248bf"
+      },
+      {
+        "id": "c7b55548-7dae-4aeb-9698-f4f79ac27378",
+        "salary": 11112,
+        "bonus": 17925,
+        "deductions": 32043,
+        "pay_date": "2023-09-28T00:45:41.625Z",
+        "created_at": "2023-09-27T16:47:28.476Z",
+        "updated_at": "2023-09-27T20:23:07.345Z",
+        "employee_id": "2a8ad0cf-3ae9-45c5-8f9f-161b17e284c6"
+      },
+      {
+        "id": "bd0f8271-7291-49e2-bed2-2e4372f18929",
+        "salary": 13005,
+        "bonus": 84430,
+        "deductions": 13002,
+        "pay_date": "2023-09-28T08:33:05.721Z",
+        "created_at": "2023-09-28T02:41:40.078Z",
+        "updated_at": "2023-09-28T12:11:18.125Z",
+        "employee_id": "2a8ad0cf-3ae9-45c5-8f9f-161b17e284c6"
+      },
+      {
+        "id": "f70784f9-330c-4493-9d14-2cb25fbba3d6",
+        "salary": 81520,
+        "bonus": 12606,
+        "deductions": 43700,
+        "pay_date": "2023-09-28T07:41:23.809Z",
+        "created_at": "2023-09-27T14:37:15.817Z",
+        "updated_at": "2023-09-28T11:06:03.359Z",
+        "employee_id": "dbe8c93f-57a4-4e90-a182-1581630a642c"
+      },
+      {
+        "id": "0b931e7e-d03e-48d9-a853-f0c63e541cc3",
+        "salary": 81481,
+        "bonus": 28892,
+        "deductions": 15714,
+        "pay_date": "2023-09-28T11:32:08.854Z",
+        "created_at": "2023-09-28T00:30:36.634Z",
+        "updated_at": "2023-09-28T06:43:58.119Z",
+        "employee_id": "94a19845-c680-495f-8c31-55a4b3c904bd"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ee749801-e75f-4112-a0f6-77220b21da7b",
+        "email": "Kylee.Wisozk65@roq.tech",
+        "firstName": "Carmella",
+        "lastName": "Legros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35461571",
+        "tenantId": null
+      },
+      {
+        "reference": "f635a2e1-ebc9-46c0-9833-d3c533aba009",
+        "email": "Katlyn51@roq.tech",
+        "firstName": "Tom",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/221.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "500a4809-a388-4910-9767-72bfb0537ed5",
+        "email": "Ethelyn_Waelchi@roq.tech",
+        "firstName": "Alana",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78861580",
+        "tenantId": null
+      },
+      {
+        "reference": "b5ff4ac4-0efd-4108-8166-73e429f5df69",
+        "email": "Christy_Dare@roq.tech",
+        "firstName": "Pearlie",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/146.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ecc7f204-7a5e-4ccc-ba6e-87c15a68142a",
+        "email": "Alize.Smith@roq.tech",
+        "firstName": "Jonathan",
+        "lastName": "Wilderman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84995625",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "0972621d-392a-4f71-bbfe-5970cf12c1f7",
+        "hire_date": "2023-09-27T15:04:06.980Z",
+        "termination_date": "2023-09-28T06:00:23.833Z",
+        "created_at": "2023-09-28T00:07:15.839Z",
+        "updated_at": "2023-09-27T16:55:30.821Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "821e7631-4ad2-4685-9994-d75bc344c79c",
+        "hire_date": "2023-09-27T15:35:45.017Z",
+        "termination_date": "2023-09-28T04:27:25.659Z",
+        "created_at": "2023-09-27T18:30:30.607Z",
+        "updated_at": "2023-09-28T00:32:52.951Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5db04bc0-30bb-4aaa-bb93-80b18ac98a92",
+        "hire_date": "2023-09-28T08:32:36.913Z",
+        "termination_date": "2023-09-27T14:44:21.342Z",
+        "created_at": "2023-09-28T00:28:19.976Z",
+        "updated_at": "2023-09-28T11:58:50.774Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d71cd010-7674-48ba-931a-48d56d6805b4",
+        "hire_date": "2023-09-27T23:47:46.282Z",
+        "termination_date": "2023-09-28T06:05:49.084Z",
+        "created_at": "2023-09-27T22:32:18.393Z",
+        "updated_at": "2023-09-27T17:32:22.570Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6064dc36-3ab7-4b53-8393-371c188b84b0",
+        "hire_date": "2023-09-27T21:00:33.754Z",
+        "termination_date": "2023-09-28T04:15:18.612Z",
+        "created_at": "2023-09-28T06:57:33.089Z",
+        "updated_at": "2023-09-27T18:11:13.190Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "62731a42-34ef-4b29-8360-ffd0132396d3",
+        "position": "Manager",
+        "start_date": "2023-09-28T08:05:57.730Z",
+        "end_date": "2023-09-28T01:14:33.348Z",
+        "created_at": "2023-09-28T09:33:45.450Z",
+        "updated_at": "2023-09-28T06:05:49.571Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bbfab4d9-10d5-4b29-9a5c-fda35173b198",
+        "position": "Engineer",
+        "start_date": "2023-09-27T20:52:21.684Z",
+        "end_date": "2023-09-27T13:27:06.280Z",
+        "created_at": "2023-09-28T02:06:14.758Z",
+        "updated_at": "2023-09-28T06:20:21.839Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5d35ea42-5195-4648-84db-14c671d3c23c",
+        "position": "Sales Representative",
+        "start_date": "2023-09-28T10:19:35.311Z",
+        "end_date": "2023-09-27T20:31:35.876Z",
+        "created_at": "2023-09-27T18:55:52.714Z",
+        "updated_at": "2023-09-27T23:03:50.029Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ba7c11d-4938-4a1d-be04-4dfb6fce925e",
+        "position": "Analyst",
+        "start_date": "2023-09-27T18:29:37.604Z",
+        "end_date": "2023-09-27T23:18:30.442Z",
+        "created_at": "2023-09-28T02:56:00.541Z",
+        "updated_at": "2023-09-27T19:11:36.060Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88aa8aca-2c64-440d-b850-204180789680",
+        "position": "Developer",
+        "start_date": "2023-09-27T13:00:01.934Z",
+        "end_date": "2023-09-28T02:21:01.240Z",
+        "created_at": "2023-09-27T17:45:09.612Z",
+        "updated_at": "2023-09-28T05:38:03.259Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "ec1ae78a-14ac-4e62-ae7a-2ad2beb9b2bb",
+        "start_date": "2023-09-27T23:29:24.026Z",
+        "end_date": "2023-09-27T19:24:12.937Z",
+        "status": "Approved",
+        "created_at": "2023-09-27T23:43:31.160Z",
+        "updated_at": "2023-09-28T10:02:10.480Z",
+        "employee_id": "7ba7c11d-4938-4a1d-be04-4dfb6fce925e"
+      },
+      {
+        "id": "e70247ae-8b45-409a-8a18-6f37c6692d87",
+        "start_date": "2023-09-28T08:03:23.150Z",
+        "end_date": "2023-09-28T10:08:16.833Z",
+        "status": "Pending",
+        "created_at": "2023-09-27T19:27:05.089Z",
+        "updated_at": "2023-09-27T18:59:59.945Z",
+        "employee_id": "7ba7c11d-4938-4a1d-be04-4dfb6fce925e"
+      },
+      {
+        "id": "2567cfc0-ccdf-4165-9a78-00b0fa9be87c",
+        "start_date": "2023-09-28T00:16:49.661Z",
+        "end_date": "2023-09-27T22:16:35.964Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-27T20:48:07.898Z",
+        "updated_at": "2023-09-28T08:12:01.545Z",
+        "employee_id": "62731a42-34ef-4b29-8360-ffd0132396d3"
+      },
+      {
+        "id": "2ed864fe-118b-4e29-905d-f6c52ac8bd69",
+        "start_date": "2023-09-28T10:13:06.741Z",
+        "end_date": "2023-09-27T17:03:37.716Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-27T15:48:22.187Z",
+        "updated_at": "2023-09-28T12:29:56.061Z",
+        "employee_id": "7ba7c11d-4938-4a1d-be04-4dfb6fce925e"
+      },
+      {
+        "id": "f465bda5-524d-4c93-8e99-ab8fe920e182",
+        "start_date": "2023-09-28T03:12:20.257Z",
+        "end_date": "2023-09-27T20:28:54.422Z",
+        "status": "Completed",
+        "created_at": "2023-09-27T12:47:22.935Z",
+        "updated_at": "2023-09-27T13:10:53.328Z",
+        "employee_id": "5d35ea42-5195-4648-84db-14c671d3c23c"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "e5540892-bd3a-44f0-ac51-2d2429a6adfa",
+        "salary": 70844,
+        "bonus": 22042,
+        "deductions": 47505,
+        "pay_date": "2023-09-27T20:42:59.507Z",
+        "created_at": "2023-09-27T21:40:05.150Z",
+        "updated_at": "2023-09-27T12:47:22.736Z",
+        "employee_id": "62731a42-34ef-4b29-8360-ffd0132396d3"
+      },
+      {
+        "id": "4096756a-adc9-4853-9d40-66a9eb2c88b1",
+        "salary": 95952,
+        "bonus": 16903,
+        "deductions": 81656,
+        "pay_date": "2023-09-27T13:52:28.296Z",
+        "created_at": "2023-09-28T09:29:46.939Z",
+        "updated_at": "2023-09-27T19:06:56.408Z",
+        "employee_id": "62731a42-34ef-4b29-8360-ffd0132396d3"
+      },
+      {
+        "id": "bee4c2d4-c489-4b56-a829-65d8bfc9b73f",
+        "salary": 57511,
+        "bonus": 85230,
+        "deductions": 95517,
+        "pay_date": "2023-09-27T16:10:56.705Z",
+        "created_at": "2023-09-27T21:35:22.979Z",
+        "updated_at": "2023-09-27T13:04:50.051Z",
+        "employee_id": "62731a42-34ef-4b29-8360-ffd0132396d3"
+      },
+      {
+        "id": "f06885e6-2eb7-4e8f-9c49-067508c53c5c",
+        "salary": 21458,
+        "bonus": 56545,
+        "deductions": 21274,
+        "pay_date": "2023-09-28T02:56:53.755Z",
+        "created_at": "2023-09-28T04:07:09.051Z",
+        "updated_at": "2023-09-28T04:36:33.530Z",
+        "employee_id": "5d35ea42-5195-4648-84db-14c671d3c23c"
+      },
+      {
+        "id": "c88098e4-9c3c-4cc2-ba33-84cd7e5af957",
+        "salary": 79183,
+        "bonus": 95987,
+        "deductions": 84181,
+        "pay_date": "2023-09-27T14:17:09.989Z",
+        "created_at": "2023-09-28T11:35:54.443Z",
+        "updated_at": "2023-09-28T12:25:00.679Z",
+        "employee_id": "88aa8aca-2c64-440d-b850-204180789680"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d08ce7d9-5fa3-4ab7-b598-6f0b7f8892be",
+        "email": "Cordelia95@roq.tech",
+        "firstName": "Mohammad",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/784.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9f818ec6-3024-4134-b16c-7be0569064c3",
+        "email": "Elias_Shields4@roq.tech",
+        "firstName": "Rosalia",
+        "lastName": "Schultz-Nikolaus",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1178.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "db30d32f-fb3f-4b37-92b1-aa07331cb6c8",
+        "email": "Alfred.Sipes@roq.tech",
+        "firstName": "Sean",
+        "lastName": "Nikolaus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55195462",
+        "tenantId": null
+      },
+      {
+        "reference": "9731a558-77c8-47fd-86ef-41147821c25f",
+        "email": "Dewayne.Hamill7@roq.tech",
+        "firstName": "Gilberto",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32895448",
+        "tenantId": null
+      },
+      {
+        "reference": "94ebfbc3-2bf7-41a6-b15b-62c58a7d3bce",
+        "email": "King78@roq.tech",
+        "firstName": "Susana",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "94c78c34-c810-4493-ba41-c30a352bde54",
+        "hire_date": "2023-09-27T17:10:05.770Z",
+        "termination_date": "2023-09-28T07:37:12.483Z",
+        "created_at": "2023-09-27T15:49:34.256Z",
+        "updated_at": "2023-09-28T06:46:43.467Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1692429-5fbe-4be1-92ac-b8d85e24c351",
+        "hire_date": "2023-09-28T04:15:46.112Z",
+        "termination_date": "2023-09-27T15:45:22.159Z",
+        "created_at": "2023-09-28T02:27:37.437Z",
+        "updated_at": "2023-09-27T18:59:29.258Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7fc4914-52a8-4492-ae9b-7356b6ecba5a",
+        "hire_date": "2023-09-28T01:40:07.010Z",
+        "termination_date": "2023-09-27T12:49:07.207Z",
+        "created_at": "2023-09-27T22:59:33.025Z",
+        "updated_at": "2023-09-27T23:33:56.084Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc48f4f0-52f9-4050-868a-06cf0a3dc7d8",
+        "hire_date": "2023-09-28T08:27:35.467Z",
+        "termination_date": "2023-09-28T08:28:55.772Z",
+        "created_at": "2023-09-28T09:55:36.511Z",
+        "updated_at": "2023-09-27T21:44:54.781Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "37be998f-44a3-41a8-9497-106ee0285a7d",
+        "hire_date": "2023-09-28T08:14:57.721Z",
+        "termination_date": "2023-09-27T14:04:01.517Z",
+        "created_at": "2023-09-27T19:25:51.751Z",
+        "updated_at": "2023-09-27T19:54:16.695Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "dcc29fdf-29f1-452e-9df2-c02b86ea430f",
+        "position": "Software Engineer",
+        "start_date": "2023-09-28T02:59:53.036Z",
+        "end_date": "2023-09-28T05:51:12.080Z",
+        "created_at": "2023-09-27T16:14:13.490Z",
+        "updated_at": "2023-09-28T01:38:05.816Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4fa25f2-932b-44be-9540-8a83c943835a",
+        "position": "Marketing Manager",
+        "start_date": "2023-09-28T10:05:33.193Z",
+        "end_date": "2023-09-27T14:52:09.199Z",
+        "created_at": "2023-09-27T23:25:27.711Z",
+        "updated_at": "2023-09-28T04:27:56.311Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "824d0448-8644-4700-91fc-68f18a6171d3",
+        "position": "Sales Executive",
+        "start_date": "2023-09-28T07:01:07.884Z",
+        "end_date": "2023-09-28T02:00:29.472Z",
+        "created_at": "2023-09-28T10:06:26.362Z",
+        "updated_at": "2023-09-28T01:56:33.557Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1474aae1-3344-4a38-adc3-2b38cb8abc5b",
+        "position": "Human Resources Specialist",
+        "start_date": "2023-09-28T07:29:33.064Z",
+        "end_date": "2023-09-27T21:38:07.475Z",
+        "created_at": "2023-09-28T04:30:19.744Z",
+        "updated_at": "2023-09-27T23:40:14.909Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4b64622-aa6b-468e-8071-0c342d1d83b8",
+        "position": "Operations Analyst",
+        "start_date": "2023-09-27T18:14:35.647Z",
+        "end_date": "2023-09-28T08:54:11.655Z",
+        "created_at": "2023-09-28T05:36:10.215Z",
+        "updated_at": "2023-09-27T15:06:08.369Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "bc046c88-ae40-403a-9a62-b8a256d02c55",
+        "start_date": "2023-09-28T01:53:44.758Z",
+        "end_date": "2023-09-28T00:55:44.549Z",
+        "status": "Approved",
+        "created_at": "2023-09-28T10:03:48.796Z",
+        "updated_at": "2023-09-28T04:20:59.581Z",
+        "employee_id": "c4fa25f2-932b-44be-9540-8a83c943835a"
+      },
+      {
+        "id": "1307b6a3-407f-4b62-899e-9f06ca91f0ea",
+        "start_date": "2023-09-27T17:39:44.500Z",
+        "end_date": "2023-09-27T13:33:19.431Z",
+        "status": "Pending",
+        "created_at": "2023-09-27T23:00:06.677Z",
+        "updated_at": "2023-09-27T16:23:07.100Z",
+        "employee_id": "1474aae1-3344-4a38-adc3-2b38cb8abc5b"
+      },
+      {
+        "id": "406228a6-f305-495e-b208-ae7d18dbf452",
+        "start_date": "2023-09-28T04:09:26.935Z",
+        "end_date": "2023-09-28T07:41:56.967Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T04:28:45.012Z",
+        "updated_at": "2023-09-27T16:08:14.971Z",
+        "employee_id": "dcc29fdf-29f1-452e-9df2-c02b86ea430f"
+      },
+      {
+        "id": "9958378a-f979-40e6-b78b-704493cb11ee",
+        "start_date": "2023-09-28T01:25:20.945Z",
+        "end_date": "2023-09-28T03:34:35.739Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-27T16:50:39.464Z",
+        "updated_at": "2023-09-27T15:01:26.751Z",
+        "employee_id": "1474aae1-3344-4a38-adc3-2b38cb8abc5b"
+      },
+      {
+        "id": "122d094d-2784-46d7-bb33-bf43c36e03e1",
+        "start_date": "2023-09-28T07:45:11.742Z",
+        "end_date": "2023-09-27T22:31:05.786Z",
+        "status": "In Progress",
+        "created_at": "2023-09-27T23:17:29.338Z",
+        "updated_at": "2023-09-27T19:19:29.258Z",
+        "employee_id": "dcc29fdf-29f1-452e-9df2-c02b86ea430f"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "6e4bd595-f4ed-40da-b585-e9e00e3493ca",
+        "salary": 93602,
+        "bonus": 61804,
+        "deductions": 49478,
+        "pay_date": "2023-09-28T09:16:49.937Z",
+        "created_at": "2023-09-27T20:00:48.920Z",
+        "updated_at": "2023-09-27T13:57:19.502Z",
+        "employee_id": "824d0448-8644-4700-91fc-68f18a6171d3"
+      },
+      {
+        "id": "8ec2ee83-f137-4dba-92b2-9ea1512b5aac",
+        "salary": 12468,
+        "bonus": 5876,
+        "deductions": 2846,
+        "pay_date": "2023-09-27T19:33:28.391Z",
+        "created_at": "2023-09-27T18:01:44.806Z",
+        "updated_at": "2023-09-27T22:58:46.120Z",
+        "employee_id": "824d0448-8644-4700-91fc-68f18a6171d3"
+      },
+      {
+        "id": "e9250526-60f2-4289-a175-38e16271c442",
+        "salary": 29142,
+        "bonus": 77228,
+        "deductions": 14180,
+        "pay_date": "2023-09-27T13:18:38.287Z",
+        "created_at": "2023-09-27T12:50:21.041Z",
+        "updated_at": "2023-09-27T15:40:45.281Z",
+        "employee_id": "f4b64622-aa6b-468e-8071-0c342d1d83b8"
+      },
+      {
+        "id": "55b561f1-294d-4d38-80c2-66777295cf10",
+        "salary": 24269,
+        "bonus": 73496,
+        "deductions": 70356,
+        "pay_date": "2023-09-27T21:18:55.817Z",
+        "created_at": "2023-09-27T13:51:31.095Z",
+        "updated_at": "2023-09-28T10:56:32.833Z",
+        "employee_id": "dcc29fdf-29f1-452e-9df2-c02b86ea430f"
+      },
+      {
+        "id": "642c0c00-165d-420a-b6b6-5a32769eeae0",
+        "salary": 59331,
+        "bonus": 32692,
+        "deductions": 1434,
+        "pay_date": "2023-09-28T02:09:37.176Z",
+        "created_at": "2023-09-27T21:50:26.285Z",
+        "updated_at": "2023-09-28T11:20:33.831Z",
+        "employee_id": "f4b64622-aa6b-468e-8071-0c342d1d83b8"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "049214eb-47cd-4ccd-a274-0971fba582da",
+        "email": "Keith54@roq.tech",
+        "firstName": "Eryn",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/759.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e152a418-4d63-4ecc-8333-939a186b01fe",
+        "email": "Nathanael.Heller30@roq.tech",
+        "firstName": "Jasper",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78393550",
+        "tenantId": null
+      },
+      {
+        "reference": "7908c68a-7451-4d7c-a7d8-cf81478c65b3",
+        "email": "Odie.Willms@roq.tech",
+        "firstName": "Arjun",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24792188",
+        "tenantId": null
+      },
+      {
+        "reference": "0dc51439-d3ea-4c8f-92f1-2dc2d098a5de",
+        "email": "Nikita_Metz@roq.tech",
+        "firstName": "Dock",
+        "lastName": "Cruickshank",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/305.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4cc80be6-95f9-415f-bff8-c9a3c543df0c",
+        "email": "Joey.Boehm0@roq.tech",
+        "firstName": "Nathanael",
+        "lastName": "Bergstrom",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "9575ba90-ea42-4638-9397-a381f6137956",
+        "hire_date": "2023-09-28T06:21:55.736Z",
+        "termination_date": "2023-09-28T02:01:18.162Z",
+        "created_at": "2023-09-28T00:44:28.761Z",
+        "updated_at": "2023-09-27T19:49:09.429Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "37108ac1-562f-4bed-9a36-45cb02f4adde",
+        "hire_date": "2023-09-27T20:45:02.200Z",
+        "termination_date": "2023-09-28T12:15:20.810Z",
+        "created_at": "2023-09-28T04:16:07.334Z",
+        "updated_at": "2023-09-27T13:53:52.846Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c1561d9-0683-4465-a4a9-3d03024f2ebb",
+        "hire_date": "2023-09-28T09:30:32.712Z",
+        "termination_date": "2023-09-27T20:57:35.978Z",
+        "created_at": "2023-09-28T02:11:55.422Z",
+        "updated_at": "2023-09-27T18:01:35.131Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "769cc8f7-09b0-40e5-8adb-40a73b189206",
+        "hire_date": "2023-09-28T06:17:11.153Z",
+        "termination_date": "2023-09-27T14:46:40.928Z",
+        "created_at": "2023-09-28T05:50:41.301Z",
+        "updated_at": "2023-09-27T14:08:30.621Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a01f37ab-9aa7-4311-ac58-060f73771818",
+        "hire_date": "2023-09-27T16:59:19.430Z",
+        "termination_date": "2023-09-28T11:15:55.616Z",
+        "created_at": "2023-09-28T08:21:10.895Z",
+        "updated_at": "2023-09-28T08:27:14.790Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "64a92604-f030-464d-a113-6dd586444190",
+        "position": "Software Engineer",
+        "start_date": "2023-09-27T17:19:56.003Z",
+        "end_date": "2023-09-28T09:50:16.913Z",
+        "created_at": "2023-09-28T02:27:46.858Z",
+        "updated_at": "2023-09-27T19:29:22.193Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7dddb7c-cfcb-4c2d-95cb-072c12c51547",
+        "position": "Marketing Specialist",
+        "start_date": "2023-09-27T20:09:15.601Z",
+        "end_date": "2023-09-27T18:29:35.527Z",
+        "created_at": "2023-09-27T18:30:06.563Z",
+        "updated_at": "2023-09-27T19:21:03.294Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66d7a39f-972a-414f-888b-ca7fd5626954",
+        "position": "Financial Analyst",
+        "start_date": "2023-09-28T02:08:54.435Z",
+        "end_date": "2023-09-27T23:51:01.672Z",
+        "created_at": "2023-09-28T04:39:04.632Z",
+        "updated_at": "2023-09-28T11:11:56.736Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6507ff9b-c2db-43cc-a858-bf53906d0991",
+        "position": "Human Resources Manager",
+        "start_date": "2023-09-27T22:05:34.690Z",
+        "end_date": "2023-09-27T19:16:39.291Z",
+        "created_at": "2023-09-27T18:54:21.046Z",
+        "updated_at": "2023-09-27T23:33:36.797Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97c06ff2-bec7-4bcc-80ac-dd068d99ca88",
+        "position": "Operations Supervisor",
+        "start_date": "2023-09-27T16:50:10.141Z",
+        "end_date": "2023-09-28T00:52:33.725Z",
+        "created_at": "2023-09-27T16:35:33.241Z",
+        "updated_at": "2023-09-28T08:38:24.282Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "8d4860f4-5200-467e-bd7d-b5054a231055",
+        "start_date": "2023-09-27T22:01:04.599Z",
+        "end_date": "2023-09-27T19:00:54.392Z",
+        "status": "Approved",
+        "created_at": "2023-09-27T14:19:53.990Z",
+        "updated_at": "2023-09-28T10:07:56.700Z",
+        "employee_id": "66d7a39f-972a-414f-888b-ca7fd5626954"
+      },
+      {
+        "id": "2d3ac3df-36b5-4725-aeb0-9557e25c5e8d",
+        "start_date": "2023-09-27T15:58:56.573Z",
+        "end_date": "2023-09-28T11:20:58.526Z",
+        "status": "Pending",
+        "created_at": "2023-09-27T23:16:43.018Z",
+        "updated_at": "2023-09-28T10:47:22.515Z",
+        "employee_id": "66d7a39f-972a-414f-888b-ca7fd5626954"
+      },
+      {
+        "id": "79011771-0bb4-4904-8fff-74cd60935b37",
+        "start_date": "2023-09-27T20:16:35.834Z",
+        "end_date": "2023-09-28T06:55:45.425Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T02:06:02.875Z",
+        "updated_at": "2023-09-27T19:28:22.730Z",
+        "employee_id": "66d7a39f-972a-414f-888b-ca7fd5626954"
+      },
+      {
+        "id": "9a265b36-1a5a-47a5-9109-5eef67125714",
+        "start_date": "2023-09-27T13:05:31.481Z",
+        "end_date": "2023-09-27T18:49:24.566Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-27T18:03:21.623Z",
+        "updated_at": "2023-09-27T20:32:38.569Z",
+        "employee_id": "66d7a39f-972a-414f-888b-ca7fd5626954"
+      },
+      {
+        "id": "b8d1437e-8ac6-4f60-abea-4350e03306a2",
+        "start_date": "2023-09-27T23:10:18.531Z",
+        "end_date": "2023-09-27T21:24:39.260Z",
+        "status": "In Progress",
+        "created_at": "2023-09-27T19:21:09.622Z",
+        "updated_at": "2023-09-27T22:31:12.219Z",
+        "employee_id": "64a92604-f030-464d-a113-6dd586444190"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "cc59b673-3259-4367-8866-259f79615b13",
+        "salary": 80367,
+        "bonus": 64145,
+        "deductions": 72579,
+        "pay_date": "2023-09-27T22:13:35.567Z",
+        "created_at": "2023-09-27T19:21:41.572Z",
+        "updated_at": "2023-09-28T07:55:55.781Z",
+        "employee_id": "97c06ff2-bec7-4bcc-80ac-dd068d99ca88"
+      },
+      {
+        "id": "adea330c-d732-46b4-a43e-5b3b11ddf1cc",
+        "salary": 56826,
+        "bonus": 88398,
+        "deductions": 19161,
+        "pay_date": "2023-09-28T00:04:06.203Z",
+        "created_at": "2023-09-27T15:40:00.340Z",
+        "updated_at": "2023-09-28T04:18:32.906Z",
+        "employee_id": "6507ff9b-c2db-43cc-a858-bf53906d0991"
+      },
+      {
+        "id": "504439b3-5537-4281-b417-d7909efa1ee5",
+        "salary": 10683,
+        "bonus": 85907,
+        "deductions": 44720,
+        "pay_date": "2023-09-27T14:16:55.845Z",
+        "created_at": "2023-09-28T08:36:46.073Z",
+        "updated_at": "2023-09-27T14:45:48.001Z",
+        "employee_id": "97c06ff2-bec7-4bcc-80ac-dd068d99ca88"
+      },
+      {
+        "id": "228acd99-0764-4042-badf-becb66d86c7c",
+        "salary": 8225,
+        "bonus": 18510,
+        "deductions": 83351,
+        "pay_date": "2023-09-28T04:47:58.159Z",
+        "created_at": "2023-09-28T05:37:37.748Z",
+        "updated_at": "2023-09-28T10:11:00.621Z",
+        "employee_id": "b7dddb7c-cfcb-4c2d-95cb-072c12c51547"
+      },
+      {
+        "id": "1bc53a0e-a082-4d19-ae87-f329e7fa85cf",
+        "salary": 1716,
+        "bonus": 47104,
+        "deductions": 30969,
+        "pay_date": "2023-09-27T16:55:59.515Z",
+        "created_at": "2023-09-27T23:11:56.431Z",
+        "updated_at": "2023-09-28T09:45:10.658Z",
+        "employee_id": "b7dddb7c-cfcb-4c2d-95cb-072c12c51547"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "35b8a442-385c-47cb-8e01-866b050d3d76",
+        "email": "Lucile.Ortiz@roq.tech",
+        "firstName": "Hannah",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1118.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bf361196-616d-4166-a566-5a8a8b17d599",
+        "email": "Evert.Wisozk@roq.tech",
+        "firstName": "Moises",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31332174",
+        "tenantId": null
+      },
+      {
+        "reference": "05001ace-2dc9-4899-a299-81de0eb0773b",
+        "email": "Michel36@roq.tech",
+        "firstName": "Caden",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82828564",
+        "tenantId": null
+      },
+      {
+        "reference": "e42eeca9-9cfd-4520-8647-873ef4b1d9ba",
+        "email": "Sophia.Predovic39@roq.tech",
+        "firstName": "Abbigail",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88622682",
+        "tenantId": null
+      },
+      {
+        "reference": "61417029-1a70-4274-a82d-02099107f377",
+        "email": "Nina_Hickle@roq.tech",
+        "firstName": "Yvette",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/23.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "529480f5-1a0a-4cf6-b87b-418dbd1d5f62",
+        "hire_date": "2023-09-28T01:32:59.247Z",
+        "termination_date": "2023-09-28T06:16:03.383Z",
+        "created_at": "2023-09-27T12:52:31.066Z",
+        "updated_at": "2023-09-27T13:37:45.495Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54f86f79-7c02-4e4c-958c-f09113cac4ef",
+        "hire_date": "2023-09-27T22:57:45.481Z",
+        "termination_date": "2023-09-28T11:09:41.743Z",
+        "created_at": "2023-09-27T13:34:47.692Z",
+        "updated_at": "2023-09-27T20:29:09.559Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36c88adc-07bd-4835-a964-dbe1ff1db832",
+        "hire_date": "2023-09-27T17:16:13.233Z",
+        "termination_date": "2023-09-28T00:46:57.511Z",
+        "created_at": "2023-09-27T19:05:35.261Z",
+        "updated_at": "2023-09-27T21:48:19.323Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f71a6fe2-7b6f-4197-b741-0cd80fea8e1c",
+        "hire_date": "2023-09-27T13:03:51.602Z",
+        "termination_date": "2023-09-28T03:39:51.826Z",
+        "created_at": "2023-09-28T08:54:26.334Z",
+        "updated_at": "2023-09-28T04:19:18.246Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2432ee18-fa05-448a-ac2c-59ae1dbb483d",
+        "hire_date": "2023-09-27T16:53:30.290Z",
+        "termination_date": "2023-09-28T03:14:31.522Z",
+        "created_at": "2023-09-28T09:02:08.833Z",
+        "updated_at": "2023-09-28T10:32:46.664Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "76cd21f5-7b0d-4448-8366-1848cc2cccea",
+        "position": "Manager",
+        "start_date": "2023-09-27T13:39:06.488Z",
+        "end_date": "2023-09-27T23:03:36.989Z",
+        "created_at": "2023-09-27T21:20:03.761Z",
+        "updated_at": "2023-09-27T23:30:46.243Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8683530-9c03-4bab-bdf3-83a719b81b52",
+        "position": "Engineer",
+        "start_date": "2023-09-27T20:03:36.762Z",
+        "end_date": "2023-09-27T22:36:20.944Z",
+        "created_at": "2023-09-28T12:10:39.864Z",
+        "updated_at": "2023-09-27T17:00:52.038Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69cf6092-a7be-4849-97a5-0e5ce9f89338",
+        "position": "Sales Representative",
+        "start_date": "2023-09-27T16:32:22.308Z",
+        "end_date": "2023-09-27T21:35:15.317Z",
+        "created_at": "2023-09-28T04:03:56.245Z",
+        "updated_at": "2023-09-28T04:35:29.501Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af6bfafe-0ab8-4572-ae7f-2219441e1cab",
+        "position": "HR Specialist",
+        "start_date": "2023-09-28T09:53:18.767Z",
+        "end_date": "2023-09-27T17:04:46.045Z",
+        "created_at": "2023-09-28T07:46:59.593Z",
+        "updated_at": "2023-09-27T12:45:43.330Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d80b546-c84f-49aa-82b7-918e6998d773",
+        "position": "Accountant",
+        "start_date": "2023-09-27T13:52:42.256Z",
+        "end_date": "2023-09-27T12:50:46.676Z",
+        "created_at": "2023-09-28T00:55:04.039Z",
+        "updated_at": "2023-09-28T07:03:31.357Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "79f890c6-12e9-4a04-bf50-47b3200b0611",
+        "start_date": "2023-09-28T06:35:58.444Z",
+        "end_date": "2023-09-28T03:22:43.481Z",
+        "status": "Approved",
+        "created_at": "2023-09-28T09:14:01.539Z",
+        "updated_at": "2023-09-27T13:14:24.964Z",
+        "employee_id": "c8683530-9c03-4bab-bdf3-83a719b81b52"
+      },
+      {
+        "id": "920a4028-16f7-42b9-bd61-a11cf02c1f67",
+        "start_date": "2023-09-28T02:06:33.344Z",
+        "end_date": "2023-09-27T22:22:09.969Z",
+        "status": "Pending",
+        "created_at": "2023-09-28T08:05:23.718Z",
+        "updated_at": "2023-09-27T18:22:14.124Z",
+        "employee_id": "69cf6092-a7be-4849-97a5-0e5ce9f89338"
+      },
+      {
+        "id": "ea37658c-12b8-4e04-b622-9dd3cd13d314",
+        "start_date": "2023-09-27T22:55:43.930Z",
+        "end_date": "2023-09-28T09:51:17.991Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T05:40:42.305Z",
+        "updated_at": "2023-09-28T01:07:45.239Z",
+        "employee_id": "69cf6092-a7be-4849-97a5-0e5ce9f89338"
+      },
+      {
+        "id": "529b74ea-a638-43e9-9bd4-5f6d3533fcca",
+        "start_date": "2023-09-27T19:15:15.178Z",
+        "end_date": "2023-09-28T01:19:19.318Z",
+        "status": "Planned",
+        "created_at": "2023-09-27T21:40:10.888Z",
+        "updated_at": "2023-09-27T13:08:48.418Z",
+        "employee_id": "af6bfafe-0ab8-4572-ae7f-2219441e1cab"
+      },
+      {
+        "id": "a3c2a194-6e2b-4e38-98dd-7246a49e3de2",
+        "start_date": "2023-09-28T07:47:43.671Z",
+        "end_date": "2023-09-28T08:47:45.685Z",
+        "status": "In Progress",
+        "created_at": "2023-09-27T22:53:03.167Z",
+        "updated_at": "2023-09-27T18:06:26.025Z",
+        "employee_id": "76cd21f5-7b0d-4448-8366-1848cc2cccea"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "05bba2da-6b31-4083-89c7-e10dbc99a9dd",
+        "salary": 78082,
+        "bonus": 10106,
+        "deductions": 77028,
+        "pay_date": "2023-09-27T15:41:42.829Z",
+        "created_at": "2023-09-28T01:04:25.844Z",
+        "updated_at": "2023-09-27T15:35:07.320Z",
+        "employee_id": "8d80b546-c84f-49aa-82b7-918e6998d773"
+      },
+      {
+        "id": "7069876b-c235-441f-92b0-5e221ba16130",
+        "salary": 96841,
+        "bonus": 9498,
+        "deductions": 1494,
+        "pay_date": "2023-09-27T21:45:39.342Z",
+        "created_at": "2023-09-27T20:16:10.530Z",
+        "updated_at": "2023-09-28T03:01:23.391Z",
+        "employee_id": "8d80b546-c84f-49aa-82b7-918e6998d773"
+      },
+      {
+        "id": "e361d3bd-fa49-4ee6-821a-f5d9d3e52d7c",
+        "salary": 70932,
+        "bonus": 480,
+        "deductions": 25300,
+        "pay_date": "2023-09-28T06:49:40.051Z",
+        "created_at": "2023-09-27T13:19:11.603Z",
+        "updated_at": "2023-09-28T08:13:54.264Z",
+        "employee_id": "69cf6092-a7be-4849-97a5-0e5ce9f89338"
+      },
+      {
+        "id": "c0e66c5e-bb1e-4ef2-aba6-fa8e1b2bfddb",
+        "salary": 69082,
+        "bonus": 86979,
+        "deductions": 42686,
+        "pay_date": "2023-09-27T16:44:05.963Z",
+        "created_at": "2023-09-27T13:13:22.491Z",
+        "updated_at": "2023-09-27T21:43:00.777Z",
+        "employee_id": "76cd21f5-7b0d-4448-8366-1848cc2cccea"
+      },
+      {
+        "id": "25fc20b6-b59e-4dab-80d1-b2e421ac48a2",
+        "salary": 65216,
+        "bonus": 80795,
+        "deductions": 69543,
+        "pay_date": "2023-09-27T18:23:55.599Z",
+        "created_at": "2023-09-28T05:55:14.008Z",
+        "updated_at": "2023-09-28T02:41:47.723Z",
+        "employee_id": "69cf6092-a7be-4849-97a5-0e5ce9f89338"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1eb29afb-797e-4fb9-9447-8f0b30669902",
+        "email": "Adriel26@roq.tech",
+        "firstName": "Mylene",
+        "lastName": "Howell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1186.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8d269976-018a-41bc-86a9-8b82e60b6e17",
+        "email": "Rylan_Zboncak@roq.tech",
+        "firstName": "Belle",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/770.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4806a2f4-3763-4758-a8cf-8229bcc9be3f",
+        "email": "Dashawn.Kuvalis@roq.tech",
+        "firstName": "Clifford",
+        "lastName": "Blick",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41942715",
+        "tenantId": null
+      },
+      {
+        "reference": "41cf81d8-e70b-453b-9ccc-6bd68c88ccdc",
+        "email": "Ulises95@roq.tech",
+        "firstName": "Rosie",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1067.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dfb01d6b-4fc1-4924-96ae-4dc8421c93be",
+        "email": "Graciela_OKeefe18@roq.tech",
+        "firstName": "Isabelle",
+        "lastName": "Zieme",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31991324",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "63c717f5-58f9-4db2-bb64-d6b232835b54",
+        "hire_date": "2023-09-27T16:14:29.630Z",
+        "termination_date": "2023-09-28T07:54:28.820Z",
+        "created_at": "2023-09-28T09:26:38.034Z",
+        "updated_at": "2023-09-28T12:18:24.254Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae9e9918-6c11-4408-b340-6452b736587f",
+        "hire_date": "2023-09-28T11:51:32.835Z",
+        "termination_date": "2023-09-28T00:32:44.543Z",
+        "created_at": "2023-09-28T11:08:14.656Z",
+        "updated_at": "2023-09-28T00:19:12.575Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b739b9e-21ee-4863-b9fd-d03b3e2913a4",
+        "hire_date": "2023-09-28T12:15:44.118Z",
+        "termination_date": "2023-09-28T00:43:51.333Z",
+        "created_at": "2023-09-28T04:05:20.708Z",
+        "updated_at": "2023-09-28T01:31:43.048Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "260a6084-c59e-4928-ac77-d14ae67b8ca4",
+        "hire_date": "2023-09-28T05:11:53.102Z",
+        "termination_date": "2023-09-28T07:53:51.401Z",
+        "created_at": "2023-09-27T13:47:30.637Z",
+        "updated_at": "2023-09-27T16:46:52.140Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0326f0fe-8a98-430c-9fef-88f4cc3b2ee8",
+        "hire_date": "2023-09-27T23:40:39.075Z",
+        "termination_date": "2023-09-28T07:56:35.966Z",
+        "created_at": "2023-09-28T02:59:05.923Z",
+        "updated_at": "2023-09-27T14:10:28.173Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "6b552938-7c56-4e4c-aba9-0ad4a431754f",
+        "position": "Manager",
+        "start_date": "2023-09-28T04:08:48.769Z",
+        "end_date": "2023-09-28T04:01:30.841Z",
+        "created_at": "2023-09-28T10:59:54.543Z",
+        "updated_at": "2023-09-27T16:45:11.705Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46cabad5-2db8-4125-96a2-e2dd4d3a9245",
+        "position": "Engineer",
+        "start_date": "2023-09-27T20:05:07.946Z",
+        "end_date": "2023-09-27T23:15:18.413Z",
+        "created_at": "2023-09-28T01:36:53.776Z",
+        "updated_at": "2023-09-27T12:55:18.119Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "08745579-1cd2-45f0-b119-fd7ce2ecd25b",
+        "position": "Sales Executive",
+        "start_date": "2023-09-28T06:59:20.094Z",
+        "end_date": "2023-09-27T15:33:47.773Z",
+        "created_at": "2023-09-28T01:24:36.183Z",
+        "updated_at": "2023-09-27T19:08:22.755Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fc79184-0ada-4275-9917-08b8a7b05839",
+        "position": "HR Specialist",
+        "start_date": "2023-09-27T16:09:29.730Z",
+        "end_date": "2023-09-28T01:52:41.913Z",
+        "created_at": "2023-09-28T06:36:45.969Z",
+        "updated_at": "2023-09-28T07:54:25.588Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec080010-2d1c-4253-ad22-3eb3a8648395",
+        "position": "Operations Analyst",
+        "start_date": "2023-09-27T21:50:04.541Z",
+        "end_date": "2023-09-28T12:10:52.141Z",
+        "created_at": "2023-09-27T14:00:01.941Z",
+        "updated_at": "2023-09-27T20:52:02.756Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "136d4ffb-fa85-4547-9067-003b475d1114",
+        "start_date": "2023-09-28T03:43:27.786Z",
+        "end_date": "2023-09-27T15:26:42.613Z",
+        "status": "Approved",
+        "created_at": "2023-09-27T17:44:08.927Z",
+        "updated_at": "2023-09-27T22:33:28.645Z",
+        "employee_id": "08745579-1cd2-45f0-b119-fd7ce2ecd25b"
+      },
+      {
+        "id": "dffceb17-87be-4a56-acc1-823ffff6ff1d",
+        "start_date": "2023-09-28T10:13:30.900Z",
+        "end_date": "2023-09-27T20:41:16.073Z",
+        "status": "Pending",
+        "created_at": "2023-09-28T09:50:11.217Z",
+        "updated_at": "2023-09-27T21:37:34.873Z",
+        "employee_id": "08745579-1cd2-45f0-b119-fd7ce2ecd25b"
+      },
+      {
+        "id": "8329984b-e32e-4185-96b8-18e3d349ef15",
+        "start_date": "2023-09-28T12:08:22.391Z",
+        "end_date": "2023-09-28T07:41:42.711Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-27T22:08:49.213Z",
+        "updated_at": "2023-09-28T06:56:07.470Z",
+        "employee_id": "ec080010-2d1c-4253-ad22-3eb3a8648395"
+      },
+      {
+        "id": "c10d7a11-f102-49c8-9209-3d273919667e",
+        "start_date": "2023-09-27T16:43:51.902Z",
+        "end_date": "2023-09-27T18:15:18.355Z",
+        "status": "Requested",
+        "created_at": "2023-09-28T05:40:22.540Z",
+        "updated_at": "2023-09-28T08:04:56.443Z",
+        "employee_id": "0fc79184-0ada-4275-9917-08b8a7b05839"
+      },
+      {
+        "id": "b5a10440-f02c-4ce3-a298-39db097ab25c",
+        "start_date": "2023-09-28T12:41:52.681Z",
+        "end_date": "2023-09-28T00:56:06.678Z",
+        "status": "Rejected",
+        "created_at": "2023-09-28T10:43:10.702Z",
+        "updated_at": "2023-09-27T15:05:32.188Z",
+        "employee_id": "0fc79184-0ada-4275-9917-08b8a7b05839"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "aabe2541-b42d-49a8-8384-60b45775e788",
+        "salary": 23153,
+        "bonus": 86690,
+        "deductions": 20485,
+        "pay_date": "2023-09-27T18:50:10.887Z",
+        "created_at": "2023-09-27T12:55:33.786Z",
+        "updated_at": "2023-09-27T15:15:05.013Z",
+        "employee_id": "46cabad5-2db8-4125-96a2-e2dd4d3a9245"
+      },
+      {
+        "id": "ec919fb5-5735-43eb-8c1b-c873fec13010",
+        "salary": 32431,
+        "bonus": 17431,
+        "deductions": 98203,
+        "pay_date": "2023-09-27T23:27:45.522Z",
+        "created_at": "2023-09-27T17:05:35.655Z",
+        "updated_at": "2023-09-27T23:32:32.493Z",
+        "employee_id": "6b552938-7c56-4e4c-aba9-0ad4a431754f"
+      },
+      {
+        "id": "fd2cec68-9ee9-45d7-bf1b-ca3d8c217ef5",
+        "salary": 23535,
+        "bonus": 41654,
+        "deductions": 31389,
+        "pay_date": "2023-09-28T08:36:48.983Z",
+        "created_at": "2023-09-27T15:11:12.040Z",
+        "updated_at": "2023-09-28T03:55:01.107Z",
+        "employee_id": "08745579-1cd2-45f0-b119-fd7ce2ecd25b"
+      },
+      {
+        "id": "8270241b-e732-41bb-bd70-82b47af05e4c",
+        "salary": 27755,
+        "bonus": 19653,
+        "deductions": 57133,
+        "pay_date": "2023-09-27T19:59:55.672Z",
+        "created_at": "2023-09-27T22:42:05.584Z",
+        "updated_at": "2023-09-28T07:00:18.674Z",
+        "employee_id": "08745579-1cd2-45f0-b119-fd7ce2ecd25b"
+      },
+      {
+        "id": "a08b4fa7-8ebd-4bbf-a4e9-ea511643b3a1",
+        "salary": 78331,
+        "bonus": 74555,
+        "deductions": 22874,
+        "pay_date": "2023-09-28T03:36:38.956Z",
+        "created_at": "2023-09-28T07:12:22.966Z",
+        "updated_at": "2023-09-28T01:59:58.938Z",
+        "employee_id": "6b552938-7c56-4e4c-aba9-0ad4a431754f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e6e8c8c5-db52-42f8-b036-3bc4f1937dc9",
+        "email": "Doug_Oberbrunner78@roq.tech",
+        "firstName": "Lorenz",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1041.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dc50185b-cb9d-472d-9ffb-21b78e20304d",
+        "email": "Adelbert62@roq.tech",
+        "firstName": "Bartholome",
+        "lastName": "Littel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/491.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "728a519c-adc7-450c-883c-e4841fde0431",
+        "email": "Josiah38@roq.tech",
+        "firstName": "Doyle",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ddb673c-360a-4f8f-9f30-9afb70877405",
+        "email": "Kayden1@roq.tech",
+        "firstName": "Willie",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0084d540-a289-4e49-adf0-b673c8b625bd",
+        "email": "Mohamed.Bergstrom@roq.tech",
+        "firstName": "Gerda",
+        "lastName": "Erdman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88225447",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "92571424-f9c7-4683-9467-6ae77b4f4b8b",
+        "hire_date": "2023-09-27T22:38:45.269Z",
+        "termination_date": "2023-09-28T12:17:57.394Z",
+        "created_at": "2023-09-28T01:04:30.468Z",
+        "updated_at": "2023-09-27T14:05:15.443Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63b5e313-8e54-46de-bece-faa04cf43669",
+        "hire_date": "2023-09-27T12:44:23.295Z",
+        "termination_date": "2023-09-28T12:33:45.064Z",
+        "created_at": "2023-09-27T20:55:40.210Z",
+        "updated_at": "2023-09-27T17:13:53.513Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cdc760b-4c42-402f-8341-6df72cf0ef3e",
+        "hire_date": "2023-09-28T07:39:40.177Z",
+        "termination_date": "2023-09-27T19:53:43.596Z",
+        "created_at": "2023-09-27T22:56:33.079Z",
+        "updated_at": "2023-09-27T15:15:16.288Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab47f560-fb71-482b-96c4-fa9a6fa9cd67",
+        "hire_date": "2023-09-28T04:56:25.792Z",
+        "termination_date": "2023-09-27T21:59:42.962Z",
+        "created_at": "2023-09-28T07:17:16.553Z",
+        "updated_at": "2023-09-27T21:49:17.056Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2591e194-adfe-44da-b3b7-00abfc1ed0b3",
+        "hire_date": "2023-09-27T23:30:43.694Z",
+        "termination_date": "2023-09-28T12:22:15.218Z",
+        "created_at": "2023-09-27T21:14:02.924Z",
+        "updated_at": "2023-09-27T15:01:00.487Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "cccee54a-f4a5-4d99-9734-440f2ee84efd",
+        "position": "Software Engineer",
+        "start_date": "2023-09-27T14:01:36.222Z",
+        "end_date": "2023-09-28T06:16:08.379Z",
+        "created_at": "2023-09-27T14:09:36.444Z",
+        "updated_at": "2023-09-28T00:35:36.966Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "843051eb-1da3-413c-99d8-704510daeacb",
+        "position": "Sales Manager",
+        "start_date": "2023-09-28T03:52:21.760Z",
+        "end_date": "2023-09-27T23:13:54.352Z",
+        "created_at": "2023-09-28T07:24:16.898Z",
+        "updated_at": "2023-09-28T04:59:10.240Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5ab862a-1e6e-4d4b-8604-2ee7a27800ab",
+        "position": "Marketing Coordinator",
+        "start_date": "2023-09-28T11:21:55.705Z",
+        "end_date": "2023-09-28T00:30:09.425Z",
+        "created_at": "2023-09-27T15:41:22.512Z",
+        "updated_at": "2023-09-28T09:52:27.411Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c592cf72-5080-46ca-8741-4eea54cea376",
+        "position": "HR Specialist",
+        "start_date": "2023-09-28T07:44:19.514Z",
+        "end_date": "2023-09-27T17:36:35.477Z",
+        "created_at": "2023-09-27T19:04:51.165Z",
+        "updated_at": "2023-09-28T09:57:38.402Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c29d0a47-d60a-4553-8c44-c190527d4ae3",
+        "position": "Operations Analyst",
+        "start_date": "2023-09-28T02:38:49.067Z",
+        "end_date": "2023-09-27T18:52:13.623Z",
+        "created_at": "2023-09-27T23:11:21.931Z",
+        "updated_at": "2023-09-27T15:29:03.324Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "1e4b3012-ec20-42d4-bee3-901b2661f412",
+        "start_date": "2023-09-28T12:23:07.345Z",
+        "end_date": "2023-09-28T00:37:54.562Z",
+        "status": "Approved",
+        "created_at": "2023-09-28T06:48:18.767Z",
+        "updated_at": "2023-09-27T12:51:42.510Z",
+        "employee_id": "f5ab862a-1e6e-4d4b-8604-2ee7a27800ab"
+      },
+      {
+        "id": "6b56caf6-4b55-4c87-9a65-6084839fe7e5",
+        "start_date": "2023-09-28T10:14:53.221Z",
+        "end_date": "2023-09-27T17:21:06.334Z",
+        "status": "Pending",
+        "created_at": "2023-09-27T18:08:27.944Z",
+        "updated_at": "2023-09-27T19:14:16.592Z",
+        "employee_id": "c592cf72-5080-46ca-8741-4eea54cea376"
+      },
+      {
+        "id": "05dede0d-59c1-4a32-8c56-23b35a6e8ad3",
+        "start_date": "2023-09-28T02:23:40.675Z",
+        "end_date": "2023-09-27T17:51:02.451Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T03:40:17.994Z",
+        "updated_at": "2023-09-27T14:55:41.212Z",
+        "employee_id": "f5ab862a-1e6e-4d4b-8604-2ee7a27800ab"
+      },
+      {
+        "id": "e2bdac18-d5bf-4a0e-bb4e-1308cff4731f",
+        "start_date": "2023-09-27T18:51:27.570Z",
+        "end_date": "2023-09-28T12:08:54.769Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-27T17:55:39.042Z",
+        "updated_at": "2023-09-28T11:52:28.212Z",
+        "employee_id": "c592cf72-5080-46ca-8741-4eea54cea376"
+      },
+      {
+        "id": "041711d1-5902-4c90-bd69-397fb763805d",
+        "start_date": "2023-09-28T10:37:03.734Z",
+        "end_date": "2023-09-28T04:09:28.503Z",
+        "status": "Completed",
+        "created_at": "2023-09-27T17:59:11.578Z",
+        "updated_at": "2023-09-28T02:59:03.689Z",
+        "employee_id": "c29d0a47-d60a-4553-8c44-c190527d4ae3"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "6b8813a6-2774-4448-a71a-5844911e5d6f",
+        "salary": 7857,
+        "bonus": 80810,
+        "deductions": 34807,
+        "pay_date": "2023-09-28T06:42:28.503Z",
+        "created_at": "2023-09-28T06:37:36.241Z",
+        "updated_at": "2023-09-28T00:33:02.199Z",
+        "employee_id": "cccee54a-f4a5-4d99-9734-440f2ee84efd"
+      },
+      {
+        "id": "f8744ac5-9d1e-4039-9e23-579b59ba30f1",
+        "salary": 65505,
+        "bonus": 38758,
+        "deductions": 66951,
+        "pay_date": "2023-09-28T05:29:36.185Z",
+        "created_at": "2023-09-28T09:49:14.863Z",
+        "updated_at": "2023-09-27T17:49:37.242Z",
+        "employee_id": "843051eb-1da3-413c-99d8-704510daeacb"
+      },
+      {
+        "id": "c9e680b6-3cb1-4e8d-9074-5efcbc6615e8",
+        "salary": 59141,
+        "bonus": 32385,
+        "deductions": 96982,
+        "pay_date": "2023-09-28T04:50:46.770Z",
+        "created_at": "2023-09-27T13:44:46.149Z",
+        "updated_at": "2023-09-28T08:24:10.516Z",
+        "employee_id": "c592cf72-5080-46ca-8741-4eea54cea376"
+      },
+      {
+        "id": "3ca29094-ec6b-4da2-a693-2e4dacb15f44",
+        "salary": 62744,
+        "bonus": 87303,
+        "deductions": 77512,
+        "pay_date": "2023-09-27T15:28:14.830Z",
+        "created_at": "2023-09-27T20:11:37.291Z",
+        "updated_at": "2023-09-27T16:19:58.203Z",
+        "employee_id": "c29d0a47-d60a-4553-8c44-c190527d4ae3"
+      },
+      {
+        "id": "ef4c24cd-e7d6-4115-85cd-960e958c72bd",
+        "salary": 68656,
+        "bonus": 57937,
+        "deductions": 32003,
+        "pay_date": "2023-09-28T07:28:12.350Z",
+        "created_at": "2023-09-28T12:29:28.801Z",
+        "updated_at": "2023-09-27T16:36:46.557Z",
+        "employee_id": "c592cf72-5080-46ca-8741-4eea54cea376"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "03ed2c8f-a9f6-4f31-a87c-f09b61063c34",
+        "email": "Carmela92@roq.tech",
+        "firstName": "Easter",
+        "lastName": "Hills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72682485",
+        "tenantId": null
+      },
+      {
+        "reference": "2ad3e34e-6baf-4343-aa70-f8966998c985",
+        "email": "Taylor24@roq.tech",
+        "firstName": "Eudora",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/934.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0fa5fd07-95ac-492a-aa8a-90858580a77f",
+        "email": "Walter_Rau@roq.tech",
+        "firstName": "Sunny",
+        "lastName": "Will",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71251553",
+        "tenantId": null
+      },
+      {
+        "reference": "7e99bdbf-6ba8-4035-b1ac-a3b71b80894e",
+        "email": "Noemi.Kautzer84@roq.tech",
+        "firstName": "Ralph",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/85.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "db44cf03-122d-4175-a8de-9511a1c6c7bb",
+        "email": "Nyasia38@roq.tech",
+        "firstName": "Maud",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39378635",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "d8fae166-2f78-431f-9f10-32f2873ca82e",
+        "hire_date": "2023-09-27T18:01:22.386Z",
+        "termination_date": "2023-09-28T07:44:21.653Z",
+        "created_at": "2023-09-27T17:51:51.046Z",
+        "updated_at": "2023-09-28T04:56:21.452Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da2a942b-68e2-46c3-b775-c9a058f22297",
+        "hire_date": "2023-09-28T00:34:48.295Z",
+        "termination_date": "2023-09-28T07:36:41.269Z",
+        "created_at": "2023-09-28T04:20:57.213Z",
+        "updated_at": "2023-09-28T03:32:11.507Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "289c801f-34bb-4d0c-b9bc-a23ba694f412",
+        "hire_date": "2023-09-28T11:10:48.497Z",
+        "termination_date": "2023-09-28T01:05:50.558Z",
+        "created_at": "2023-09-28T09:48:28.036Z",
+        "updated_at": "2023-09-27T15:19:54.283Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "791f85eb-6920-4b4b-ae47-6f34ab91e0a0",
+        "hire_date": "2023-09-27T17:49:08.405Z",
+        "termination_date": "2023-09-28T08:40:44.051Z",
+        "created_at": "2023-09-28T03:59:10.279Z",
+        "updated_at": "2023-09-28T07:17:59.837Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3d3efad-92c7-4f53-a83f-ecac71380a5b",
+        "hire_date": "2023-09-27T13:52:03.230Z",
+        "termination_date": "2023-09-28T04:08:32.561Z",
+        "created_at": "2023-09-27T15:15:05.329Z",
+        "updated_at": "2023-09-28T10:10:29.396Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "0b229be1-1583-48be-b23c-164ff1ec622c",
+        "position": "Software Engineer",
+        "start_date": "2023-09-28T00:56:26.333Z",
+        "end_date": "2023-09-28T12:20:02.778Z",
+        "created_at": "2023-09-27T18:42:16.507Z",
+        "updated_at": "2023-09-28T03:05:24.487Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dca98f4d-846a-4bfb-bc1a-6144a4e3e020",
+        "position": "Marketing Manager",
+        "start_date": "2023-09-28T00:34:14.025Z",
+        "end_date": "2023-09-27T17:44:45.465Z",
+        "created_at": "2023-09-27T13:39:22.150Z",
+        "updated_at": "2023-09-27T14:12:06.353Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "434cf784-e55e-4b3d-ae40-2d4c9909996b",
+        "position": "Financial Analyst",
+        "start_date": "2023-09-28T10:15:03.218Z",
+        "end_date": "2023-09-28T11:19:21.403Z",
+        "created_at": "2023-09-27T13:54:53.606Z",
+        "updated_at": "2023-09-27T16:16:00.791Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0ab878a-c4b6-4a27-a9d4-046198b404a6",
+        "position": "HR Specialist",
+        "start_date": "2023-09-28T01:46:50.339Z",
+        "end_date": "2023-09-28T07:18:48.079Z",
+        "created_at": "2023-09-27T16:52:34.070Z",
+        "updated_at": "2023-09-28T01:35:53.723Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "480f7fb4-d466-4f49-870e-ec8513c8fe8c",
+        "position": "Operations Coordinator",
+        "start_date": "2023-09-28T08:16:02.234Z",
+        "end_date": "2023-09-28T01:58:15.629Z",
+        "created_at": "2023-09-28T07:26:36.419Z",
+        "updated_at": "2023-09-28T03:54:34.057Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "65bd41a0-6f27-4900-9d23-898341c47dcd",
+        "start_date": "2023-09-28T03:30:29.624Z",
+        "end_date": "2023-09-27T14:37:35.173Z",
+        "status": "Approved",
+        "created_at": "2023-09-27T19:06:08.251Z",
+        "updated_at": "2023-09-28T05:59:37.517Z",
+        "employee_id": "dca98f4d-846a-4bfb-bc1a-6144a4e3e020"
+      },
+      {
+        "id": "07041b73-1b47-46ef-942f-cbf4a932b87b",
+        "start_date": "2023-09-27T16:13:33.868Z",
+        "end_date": "2023-09-28T02:06:12.460Z",
+        "status": "Pending",
+        "created_at": "2023-09-28T08:07:02.593Z",
+        "updated_at": "2023-09-27T14:30:10.733Z",
+        "employee_id": "dca98f4d-846a-4bfb-bc1a-6144a4e3e020"
+      },
+      {
+        "id": "90ac6607-2f4c-4cbd-ba25-dcb20844d6e6",
+        "start_date": "2023-09-27T18:49:25.179Z",
+        "end_date": "2023-09-27T19:04:55.222Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T01:23:14.011Z",
+        "updated_at": "2023-09-27T20:13:48.563Z",
+        "employee_id": "480f7fb4-d466-4f49-870e-ec8513c8fe8c"
+      },
+      {
+        "id": "80c2008a-ab8b-4714-a8e3-9b2b08d6f882",
+        "start_date": "2023-09-28T02:06:45.030Z",
+        "end_date": "2023-09-28T06:51:48.301Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-28T12:37:51.838Z",
+        "updated_at": "2023-09-27T21:39:36.217Z",
+        "employee_id": "434cf784-e55e-4b3d-ae40-2d4c9909996b"
+      },
+      {
+        "id": "3fe516f0-c33d-4e1f-87d7-6f8da2949936",
+        "start_date": "2023-09-27T13:12:41.344Z",
+        "end_date": "2023-09-27T20:46:37.577Z",
+        "status": "Rejected",
+        "created_at": "2023-09-28T01:37:48.235Z",
+        "updated_at": "2023-09-27T22:53:12.442Z",
+        "employee_id": "0b229be1-1583-48be-b23c-164ff1ec622c"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "9adad4bf-c218-4f4d-a85c-217f996d29b4",
+        "salary": 83876,
+        "bonus": 98363,
+        "deductions": 1158,
+        "pay_date": "2023-09-28T04:43:13.308Z",
+        "created_at": "2023-09-27T15:10:57.531Z",
+        "updated_at": "2023-09-27T19:38:33.055Z",
+        "employee_id": "0b229be1-1583-48be-b23c-164ff1ec622c"
+      },
+      {
+        "id": "861d7d55-ef36-4332-927c-59fe9713dc57",
+        "salary": 97316,
+        "bonus": 8291,
+        "deductions": 44567,
+        "pay_date": "2023-09-27T15:47:22.300Z",
+        "created_at": "2023-09-28T02:41:19.558Z",
+        "updated_at": "2023-09-28T03:17:20.237Z",
+        "employee_id": "0b229be1-1583-48be-b23c-164ff1ec622c"
+      },
+      {
+        "id": "57c74f14-6a5b-4c14-a698-2e9127f5ca64",
+        "salary": 11015,
+        "bonus": 12904,
+        "deductions": 51149,
+        "pay_date": "2023-09-28T06:03:05.015Z",
+        "created_at": "2023-09-27T14:32:31.444Z",
+        "updated_at": "2023-09-27T15:11:26.288Z",
+        "employee_id": "b0ab878a-c4b6-4a27-a9d4-046198b404a6"
+      },
+      {
+        "id": "d1f055f1-a3fc-4970-aec8-ceb9f34cf032",
+        "salary": 34950,
+        "bonus": 55962,
+        "deductions": 51166,
+        "pay_date": "2023-09-28T02:27:27.551Z",
+        "created_at": "2023-09-28T08:05:01.362Z",
+        "updated_at": "2023-09-28T04:30:31.717Z",
+        "employee_id": "dca98f4d-846a-4bfb-bc1a-6144a4e3e020"
+      },
+      {
+        "id": "ed1a820d-2730-4064-97c5-2ca677e4af53",
+        "salary": 84760,
+        "bonus": 28028,
+        "deductions": 83649,
+        "pay_date": "2023-09-28T03:39:31.065Z",
+        "created_at": "2023-09-28T08:21:22.249Z",
+        "updated_at": "2023-09-28T05:10:12.436Z",
+        "employee_id": "b0ab878a-c4b6-4a27-a9d4-046198b404a6"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d8c6415b-49ee-4a2c-8b9f-ed239dfcbbea",
+        "email": "Brandt85@roq.tech",
+        "firstName": "Rocio",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/365.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4578546c-30ef-4d79-a205-09a949fd8114",
+        "email": "Cletus.Crona52@roq.tech",
+        "firstName": "Nicklaus",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56502377",
+        "tenantId": null
+      },
+      {
+        "reference": "c9b76866-1322-4696-b844-beca6f62865d",
+        "email": "Junior82@roq.tech",
+        "firstName": "Newton",
+        "lastName": "Leffler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53224534",
+        "tenantId": null
+      },
+      {
+        "reference": "47853972-ce52-49d4-af8c-aed05b523c19",
+        "email": "Agnes.Cremin@roq.tech",
+        "firstName": "Cristal",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/943.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "01580a8e-50f6-4220-b9dc-574bcc5fc750",
+        "email": "Geoffrey19@roq.tech",
+        "firstName": "Amelie",
+        "lastName": "Larkin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/105.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "hr_manager": [
+      {
+        "id": "efedec0c-0ffb-4b4f-a041-2de37938b306",
+        "hire_date": "2023-09-28T07:14:45.097Z",
+        "termination_date": "2023-09-27T15:37:38.647Z",
+        "created_at": "2023-09-27T16:40:00.609Z",
+        "updated_at": "2023-09-28T06:31:55.687Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ebbaf54-f409-4de0-8bb1-c0ba78102d56",
+        "hire_date": "2023-09-28T12:19:09.248Z",
+        "termination_date": "2023-09-28T00:09:40.723Z",
+        "created_at": "2023-09-28T00:15:37.920Z",
+        "updated_at": "2023-09-27T17:50:38.756Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dab0bc8a-4cb3-4854-b76d-55cf524302b2",
+        "hire_date": "2023-09-28T08:33:48.792Z",
+        "termination_date": "2023-09-27T17:10:15.561Z",
+        "created_at": "2023-09-27T23:37:39.377Z",
+        "updated_at": "2023-09-28T01:37:36.607Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27e9ae9d-7171-470a-8b98-528f5b60e6dd",
+        "hire_date": "2023-09-28T08:13:23.281Z",
+        "termination_date": "2023-09-27T16:30:29.057Z",
+        "created_at": "2023-09-27T18:55:52.208Z",
+        "updated_at": "2023-09-27T12:54:57.308Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "edbd0b06-5051-436f-b6b9-6d7493039d83",
+        "hire_date": "2023-09-28T05:32:01.774Z",
+        "termination_date": "2023-09-28T12:30:07.955Z",
+        "created_at": "2023-09-28T12:38:24.257Z",
+        "updated_at": "2023-09-27T23:30:58.435Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "employee": [
+      {
+        "id": "b68267fb-222e-4eef-b322-4c3a997ff232",
+        "position": "Software Engineer",
+        "start_date": "2023-09-28T11:59:48.181Z",
+        "end_date": "2023-09-27T18:04:36.298Z",
+        "created_at": "2023-09-28T07:31:14.931Z",
+        "updated_at": "2023-09-27T22:46:46.320Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f36370c0-47a1-4aa6-891c-0e807dfbef28",
+        "position": "Marketing Manager",
+        "start_date": "2023-09-27T20:32:16.665Z",
+        "end_date": "2023-09-27T22:32:09.948Z",
+        "created_at": "2023-09-28T06:45:35.132Z",
+        "updated_at": "2023-09-27T14:11:17.227Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "509bb17f-55e1-40c5-a6f4-b47947b38c6f",
+        "position": "Sales Executive",
+        "start_date": "2023-09-27T14:39:09.158Z",
+        "end_date": "2023-09-27T20:12:45.345Z",
+        "created_at": "2023-09-27T18:02:31.622Z",
+        "updated_at": "2023-09-28T10:09:02.773Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9bbea619-597a-4a11-804f-122c66fcd890",
+        "position": "HR Specialist",
+        "start_date": "2023-09-27T20:19:22.023Z",
+        "end_date": "2023-09-28T03:13:42.224Z",
+        "created_at": "2023-09-27T20:22:57.096Z",
+        "updated_at": "2023-09-28T07:54:29.742Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "796d6679-511e-4888-b114-58c53108c145",
+        "position": "Operations Analyst",
+        "start_date": "2023-09-28T08:20:45.932Z",
+        "end_date": "2023-09-28T11:25:46.391Z",
+        "created_at": "2023-09-27T13:38:19.694Z",
+        "updated_at": "2023-09-27T22:06:26.860Z",
+        "company_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "vacation": [
+      {
+        "id": "ab719b43-63bb-4fa5-a92b-49ec1ae3ba9f",
+        "start_date": "2023-09-27T17:51:51.408Z",
+        "end_date": "2023-09-27T13:34:11.054Z",
+        "status": "Approved",
+        "created_at": "2023-09-28T02:59:49.744Z",
+        "updated_at": "2023-09-27T16:57:58.995Z",
+        "employee_id": "9bbea619-597a-4a11-804f-122c66fcd890"
+      },
+      {
+        "id": "0d67967b-d127-491d-8675-90e4e7d993d8",
+        "start_date": "2023-09-28T09:24:24.034Z",
+        "end_date": "2023-09-27T14:26:57.920Z",
+        "status": "Pending",
+        "created_at": "2023-09-28T05:02:22.595Z",
+        "updated_at": "2023-09-27T14:06:26.557Z",
+        "employee_id": "f36370c0-47a1-4aa6-891c-0e807dfbef28"
+      },
+      {
+        "id": "99a2c49d-4b15-4eaf-b35d-d84bd48987c1",
+        "start_date": "2023-09-28T08:10:58.636Z",
+        "end_date": "2023-09-27T18:37:41.286Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-28T09:03:12.357Z",
+        "updated_at": "2023-09-28T03:25:02.922Z",
+        "employee_id": "796d6679-511e-4888-b114-58c53108c145"
+      },
+      {
+        "id": "3cfbc742-1686-4be7-a2cc-0e36af84d752",
+        "start_date": "2023-09-28T03:53:48.257Z",
+        "end_date": "2023-09-28T08:49:35.119Z",
+        "status": "Scheduled",
+        "created_at": "2023-09-27T23:40:32.430Z",
+        "updated_at": "2023-09-28T11:21:29.897Z",
+        "employee_id": "796d6679-511e-4888-b114-58c53108c145"
+      },
+      {
+        "id": "ada85bda-479e-491c-881f-298b26c6eb4b",
+        "start_date": "2023-09-28T11:33:03.348Z",
+        "end_date": "2023-09-27T19:28:52.810Z",
+        "status": "In Progress",
+        "created_at": "2023-09-27T21:26:06.060Z",
+        "updated_at": "2023-09-27T19:57:39.828Z",
+        "employee_id": "b68267fb-222e-4eef-b322-4c3a997ff232"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "d5fa7410-907a-4822-b89a-7165432890ad",
+        "salary": 28685,
+        "bonus": 99681,
+        "deductions": 26300,
+        "pay_date": "2023-09-27T16:19:59.828Z",
+        "created_at": "2023-09-27T13:08:42.617Z",
+        "updated_at": "2023-09-28T03:53:56.525Z",
+        "employee_id": "796d6679-511e-4888-b114-58c53108c145"
+      },
+      {
+        "id": "333c8482-5210-45d8-9e09-cebf615d0787",
+        "salary": 54286,
+        "bonus": 21919,
+        "deductions": 80620,
+        "pay_date": "2023-09-27T16:49:32.628Z",
+        "created_at": "2023-09-27T17:46:16.681Z",
+        "updated_at": "2023-09-27T15:23:12.545Z",
+        "employee_id": "9bbea619-597a-4a11-804f-122c66fcd890"
+      },
+      {
+        "id": "1c194972-17ec-42f3-9647-699452369d1b",
+        "salary": 47482,
+        "bonus": 50406,
+        "deductions": 70356,
+        "pay_date": "2023-09-28T02:14:00.945Z",
+        "created_at": "2023-09-27T20:00:29.813Z",
+        "updated_at": "2023-09-28T09:13:32.611Z",
+        "employee_id": "f36370c0-47a1-4aa6-891c-0e807dfbef28"
+      },
+      {
+        "id": "1bf0478b-af1a-4fba-8766-688db53429d4",
+        "salary": 28957,
+        "bonus": 54333,
+        "deductions": 94107,
+        "pay_date": "2023-09-28T04:57:57.756Z",
+        "created_at": "2023-09-28T12:25:25.938Z",
+        "updated_at": "2023-09-27T16:39:18.598Z",
+        "employee_id": "b68267fb-222e-4eef-b322-4c3a997ff232"
+      },
+      {
+        "id": "bef30de5-0d27-401f-ac53-63b48bdb8e75",
+        "salary": 28632,
+        "bonus": 49823,
+        "deductions": 64223,
+        "pay_date": "2023-09-28T05:26:09.965Z",
+        "created_at": "2023-09-27T22:01:43.855Z",
+        "updated_at": "2023-09-27T13:58:46.401Z",
+        "employee_id": "796d6679-511e-4888-b114-58c53108c145"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7bc3d9a4-3575-4a63-b427-1ae6040fb2c3",
+        "email": "Virginia.Klein43@roq.tech",
+        "firstName": "Jarvis",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1104.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a1afc7db-4c9b-4150-8b6c-a6e627c689dd",
+        "email": "Jayne.Stracke@roq.tech",
+        "firstName": "Nelle",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5171394",
+        "tenantId": null
+      },
+      {
+        "reference": "4f8e93e7-a5f2-4db5-ab7c-f66895df5a35",
+        "email": "Orin_Beatty90@roq.tech",
+        "firstName": "Florine",
+        "lastName": "Conn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73213337",
+        "tenantId": null
+      },
+      {
+        "reference": "aa22aa05-388f-4f15-bbb9-b90ead94f8dc",
+        "email": "Hettie.Weimann@roq.tech",
+        "firstName": "Lynn",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20510562",
+        "tenantId": null
+      },
+      {
+        "reference": "2ca481c8-6219-404a-b1a6-45a7af15d743",
+        "email": "Ardith_Cruickshank90@roq.tech",
+        "firstName": "Darrin",
+        "lastName": "Schmeler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/518.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
